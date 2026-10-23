@@ -8,9 +8,6 @@ Prepared 23 October 2026. Links are references, not a claim of endorsement or pe
 - [Flora Excursoria Hafniensis](https://bergholt.net/flora). Context for historical language, botanical naming and languages sharing a printed surface.
 - [Flora repository](https://github.com/bergholt/flora-excursoria-hafniensis). Reference for the artist's practice of publishing transcriptions, executable analysis and explicit limitations together.
 - [Sun: Triptychs for Solar Eclipses](https://bergholt.net/sun) and [Triptych repository](https://github.com/bergholt/triptych). Context for system poetry, fixed constraints and letter-based harmonics. Connections to Sand in the new description are editorial interpretations.
-- [Poetry](https://bergholt.net/poetry). The artist's account of the 2011 system poem and later work.
-- [About](https://bergholt.net/about). Artist's stated fields of practice and interests. No institutional endorsement is inferred.
-- [Exergue](https://bergholt.net/exergue). Particularly the September 2026 note linking NetLock archival work to new DOS experiments. Its proposed circuit-board imagery and Latin sound should be distinguished from what this archive implements.
 - [GitHub profile](https://github.com/bergholt). The profile was not directly retrievable during preparation; the Flora and Triptych repositories were inspected independently.
 
 ## NetLock records
