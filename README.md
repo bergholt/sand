@@ -11,10 +11,6 @@ The Danish and German inscriptions of the Sand Drift Monument at Tisvilde, erect
 
 ## The ANSI work
 
-![ANSI rendering of the Sand Drift Monument, with the title EIN. MEER. VON. SAND. below it](assets/sand-ansi-preview.png)
-
-Browser preview rendered from the supplied `SAND.ANS`. The preview uses an approximate terminal typeface; the original ANSI file, including its SAUCE metadata, is preserved. This is the accompanying ANSI image, not a capture of the animated DOS program.
-
 ## The rule
 
 For a letter at alphabet position `p` and the current modulus `M`:
