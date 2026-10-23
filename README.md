@@ -68,9 +68,15 @@ The supplied notes specify a 386 or better, VGA 320 × 200 with 64 greys, and So
 | `docs/BUILD.md` | Build evidence and missing regeneration steps |
 | `docs/TECHNICAL-NOTES.md` | Encodings, timing, scope and validation |
 | `docs/SOURCES.md` | Historical and artistic references |
-| `RIGHTS.md` | Copyright and reuse terms |
+| `RIGHTS.md` | Copyright and licence information |
 
-All 16 supplied files are preserved byte for byte. Added documentation and the PNG preview are identified separately. `docs/ORIGINAL-FILES.sha256` records their hashes.
+All 16 supplied files are preserved byte for byte. Added documentation and the PNG preview are identified separately. `docs/ORIGINAL-FILES.sha256` records their hashes. The MIT licence below applies to the supplied files as well as the added material, including where preserved distribution notes contain earlier rights statements.
+
+## Demoscene release
+
+Released in September 2026 as *snd-drft* by **chrntps**.
+
+[Demozoo](https://demozoo.org/productions/398260/) · [Pouët](https://www.pouet.net/prod.php?which=107048)
 
 ## Context
 
@@ -78,18 +84,38 @@ This work follows Sun, the system poems, and Flora Excursoria Hafniensis. Their 
 
 The DOS and ANSI forms also connect to NetLock BBS, which Bergholt ran in Hillerød in the 1990s.
 
-## Credits and rights
+## Credits and licence
 
 Work, code, original texts and translations, sound and direction: Kasper Bergholt.
 
-© 2026 Kasper Bergholt. All rights reserved. The artist confirms ownership and authorises publication of the work and source together. This is a source-available archival package; no additional reuse licence has been selected. See [RIGHTS.md](RIGHTS.md).
+The entire work and all accompanying repository material are released under the MIT License. This includes source code, compiled executables, sound recordings, musical and score material, ANSI artwork, graphics, fonts, original texts, translations, documentation, configuration files and runtime assets. For the purposes of the licence below, “Software” includes all of these materials.
+
+You may use, copy, modify, merge, publish, distribute, sublicense and sell the work or any part of it, including for commercial purposes, subject to the MIT License. Include the copyright notice and permission notice in all copies or substantial portions.
+
+Historical inscription texts remain in the public domain; their inclusion here imposes no additional restrictions.
+
+### MIT License
+
+Copyright (c) 2026 Kasper Bergholt
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Preservation status
 
 The executable and sound were supplied rather than rebuilt. No DOSBox, Pascal compiler or APL interpreter was available for execution testing during packaging. The archive documents substantial source material, but does not yet provide a verified end-to-end reproducible build. See [build notes](docs/BUILD.md).
-
-## Demoscene release
-
-Released in September 2026 as *snd-drft* by **chrntps**.
-
-[Demozoo](https://demozoo.org/productions/398260/) · [Pouët](https://www.pouet.net/prod.php?which=107048)
