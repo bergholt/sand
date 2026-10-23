@@ -1,0 +1,12 @@
+# Local compiler and preview output; the supplied EXE is intentionally tracked.
+*.o
+*.ppu
+*.tpu
+*.obj
+*.map
+*.bak
+frame_*.pgm
+DUMP.RAW
+LOG.TXT
+.DS_Store
+Thumbs.db

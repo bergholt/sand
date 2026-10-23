@@ -1,0 +1,14 @@
+# Preserve the original distribution byte for byte.
+*.PAS -text linguist-language=Pascal
+*.APL -text linguist-language=APL
+*.EXE binary
+*.SND binary
+*.ANS binary
+*.NFO -text
+*.DIZ -text
+*.BAT -text
+*.CONF -text
+*.png binary
+*.md text eol=lf
+*.cff text eol=lf
+*.sha256 text eol=lf

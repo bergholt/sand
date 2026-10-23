@@ -1,0 +1,54 @@
+
+                        EIN. MEER. VON. SAND.
+                a demo for MS-DOS  ú  Kasper Bergholt  ú  2026
+
+  °±²Û THE WORK Û²±°
+
+  In 1738 a monument was raised at Tisvilde, on the north coast of Zealand,
+  where the drifting sand had finally been stopped. Its faces speak Danish,
+  German and Latin; the Latin face is overgrown with moss.
+
+  This demo reads the Danish and German faces, and an English translation,
+  side by side. One rule turns every letter into sound: the letter becomes a
+  partial of a fixed A2 (110 Hz), given by its place in the alphabet modulo M.
+  Danish AE, OE and AA continue the alphabet as 27, 28 and 29. The modulus
+  drifts from 12 to 17 over the piece, so the same letter changes its tone.
+
+  Every letter that has been said leaves the text and settles in the sea at
+  the bottom of the screen. The waves grow as the sediment grows, and the drone
+  keeps every letter at the tuning it had when it was said. Vowels swell and
+  hold; consonants strike. Words the languages share (sand, Gram, Rohl,
+  Frederik, Christian, sea, wind, 1738) light up in all three columns at once.
+  Twice, everything stops.
+
+  °±²Û RUNNING IT Û²±°
+
+  Needs a 386 or better, VGA and a Sound Blaster 16 (A220 I7 D1).
+  In DOSBox: double-click RUN.BAT, or
+
+       mount c c:\sand
+       c:
+       sand            (ESC quits; SAND 300 starts five minutes in)
+
+  The picture follows the sound card, so the timing stays exact even when
+  the frame rate drops as the sea fills up.
+
+  °±²Û FILES Û²±°
+
+  SAND.EXE      the demo
+  SAND.SND      the soundtrack, kept separate: raw 8-bit stereo, 22050 Hz
+  SAND.ANS      the monument, in ANSI
+  DOSBOX.CONF   DOSBox settings          RUN.BAT   starts DOSBox (Windows)
+  SRC\          Turbo Pascal 7 sources (built with Free Pascal 3.2.2 for
+                i8086-msdos) and the APL program that composed the score
+                and synthesised the sound
+
+  °±²Û CREDITS Û²±°
+
+  concept, texts, direction ...... Kasper Bergholt
+  code ........................... Pascal & APL
+  sound .......................... synthesised in APL from the score
+
+  bergholt.net/sand
+
+                                                   Tisvilde 1738 / 2026

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the work and identify the revision or archive you used."
+title: "EIN. MEER. VON. SAND.: The Sand Drift Monument, Tisvilde"
+type: software
+authors:
+  - family-names: Bergholt
+    given-names: Kasper
+url: "https://bergholt.net/sand"
+abstract: >-
+  A 2026 MS-DOS audiovisual work reading Danish and German monument
+  inscriptions alongside English translations through a changing
+  letter-to-harmonic rule. Pascal and APL source and supplied runtime assets.
+keywords:
+  - system poetry
+  - audiovisual art
+  - MS-DOS
+  - Pascal
+  - APL
+  - Tisvilde
