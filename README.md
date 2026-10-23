@@ -80,7 +80,7 @@ The DOS and ANSI forms also connect to [NetLock BBS](https://bergholt.net/netloc
 
 ## Credits and rights
 
-Work, code, original texts and translations, sound and direction: Kasper Bergholt. The supplied `FILE_ID.DIZ` describes the Pascal and APL code as AI-assisted. The soundtrack is described as synthesised in APL from the score.
+Work, code, original texts and translations, sound and direction: Kasper Bergholt. 
 
 © 2026 Kasper Bergholt. All rights reserved. The artist confirms ownership and authorises publication of the work and source together. This is a source-available archival package; no additional reuse licence has been selected. See [RIGHTS.md](RIGHTS.md).
 
