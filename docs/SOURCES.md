@@ -16,7 +16,6 @@ Prepared 23 October 2026. Links are references, not a claim of endorsement or pe
 - [Pouët: NetLock BBS](https://www.pouet.net/boards.php?which=4495). Lists Kasper Bergholt as sysop and MS-DOS as platform; not evidence of a Sand demo release.
 - [Demozoo: NetLock](https://demozoo.org/bbs/14053/). Records a Hillerød-area board, staff alias Fenger, and a reference to an October 1994 GSN infopacket. Its staff entry differs in form from the full name in other records. No unverified alias equivalence is asserted here.
 - Anders Wegge Jakobsen, [Liste over danske BBS'er](https://da.wikisource.org/wiki/Liste_over_danske_BBS%27er). The NetLock row lists Kasper Bergholt Kristiansen, PC-only operation, 14,400 bps / V32B, round-the-clock access and FidoNet address 2:236/444. Historical telephone numbers are unnecessary for the project description and have not been copied into it.
-- [Pixel Joint item 164995](https://pixeljoint.com/pixelart/164995.htm). Supplied reference; direct retrieval failed. Exergue links to it as Trust 14K4 Modem. Its image, detailed credits and licence were not independently verified and it has not been reproduced.
 
 The attached Google AI Overview screenshot is not treated as an independent source. In particular, public Maximus source under GPL is not evidence that the original NetLock-specific menus or the Sand code share that licence.
 
