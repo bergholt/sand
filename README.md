@@ -74,9 +74,9 @@ All 16 supplied files are preserved byte for byte. Added documentation and the P
 
 ## Context
 
-This work follows [Sun](https://bergholt.net/sun), [the system poems](https://bergholt.net/poetry), and [Flora Excursoria Hafniensis](https://bergholt.net/flora). Their shared concern is the relation between a small formal rule and the language it allows us to read or hear. Here that relation unfolds as accumulation: the reading leaves a material trace.
+This work follows Sun, the system poems, and Flora Excursoria Hafniensis.Their shared concern is the relation between a small formal rule and the language it allows us to read or hear. Here that relation unfolds as accumulation: the reading leaves a material trace.
 
-The DOS and ANSI forms also connect to [NetLock BBS](https://bergholt.net/netlock), which Bergholt ran in Hillerød in the 1990s. [Exergue](https://bergholt.net/exergue) records the 2026 return to that history. These are connections of practice and medium, not a claim that Sand was produced in the 1990s or formally released in a demoscene competition.
+The DOS and ANSI forms also connect to NetLock BBS, which Bergholt ran in Hillerød in the 1990s.
 
 ## Credits and rights
 
