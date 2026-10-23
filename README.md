@@ -78,11 +78,6 @@ Released in September 2026 as *snd-drft* by **chrntps**.
 
 [Demozoo](https://demozoo.org/productions/398260/) · [Pouët](https://www.pouet.net/prod.php?which=107048)
 
-## Context
-
-This work follows Sun, the system poems, and Flora Excursoria Hafniensis. Their shared concern is the relation between a small formal rule and the language it allows us to read or hear. Here that relation unfolds as accumulation: the reading leaves a material trace.
-
-The DOS and ANSI forms also connect to NetLock BBS, which Bergholt ran in Hillerød in the 1990s.
 
 ## Credits and licence
 
