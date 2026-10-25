@@ -9,7 +9,11 @@ The Danish and German inscriptions of the Sand Drift Monument at Tisvilde, erect
 
 [Work and historical context](https://bergholt.net/sand) · [Extended description](docs/PROJECT-DESCRIPTION.md) · [Sources](docs/SOURCES.md)
 
-## The ANSI work
+## Demoscene release
+
+Released in September 2026 as *snd-drft* by **chrntps**.
+
+[Demozoo](https://demozoo.org/productions/398260/) · [Pouët](https://www.pouet.net/prod.php?which=107048)
 
 ## The rule
 
@@ -71,12 +75,6 @@ The supplied notes specify a 386 or better, VGA 320 × 200 with 64 greys, and So
 | `RIGHTS.md` | Copyright and licence information |
 
 All 16 supplied files are preserved byte for byte. Added documentation and the PNG preview are identified separately. `docs/ORIGINAL-FILES.sha256` records their hashes. The MIT licence below applies to the supplied files as well as the added material, including where preserved distribution notes contain earlier rights statements.
-
-## Demoscene release
-
-Released in September 2026 as *snd-drft* by **chrntps**.
-
-[Demozoo](https://demozoo.org/productions/398260/) · [Pouët](https://www.pouet.net/prod.php?which=107048)
 
 
 ## Credits and licence
