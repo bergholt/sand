@@ -4,10 +4,11 @@ Prepared 23 October 2026. Links are references, not a claim of endorsement or pe
 
 ## The work and its neighbouring projects
 
+- [Sun: 72 Poems for 72 Solar Eclipses](https://bergholt.net/sun) and [Triptych repository](https://github.com/bergholt/triptych). Context for system poetry, fixed constraints and letter-based harmonics. Connections to Sand in the new description are editorial interpretations.
 - Kasper Bergholt, [Sand Drift Monument](https://bergholt.net/sand). Artist's account, inscription texts, translations, personal memory and historical context.
 - [Flora Excursoria Hafniensis](https://bergholt.net/flora). Context for historical language, botanical naming and languages sharing a printed surface.
 - [Flora repository](https://github.com/bergholt/flora-excursoria-hafniensis). Reference for the artist's practice of publishing transcriptions, executable analysis and explicit limitations together.
-- [Sun: 72 Poems for 72 Solar Eclipses](https://bergholt.net/sun) and [Triptych repository](https://github.com/bergholt/triptych). Context for system poetry, fixed constraints and letter-based harmonics. Connections to Sand in the new description are editorial interpretations.
+
 - [GitHub profile](https://github.com/bergholt). The profile was not directly retrievable during preparation; the Flora and Triptych repositories were inspected independently.
 
 ## Direct technical evidence
